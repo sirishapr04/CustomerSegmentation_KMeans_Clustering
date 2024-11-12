@@ -7,7 +7,6 @@
 
 This project focuses on customer segmentation for a grocery firm using unsupervised clustering techniques to analyze customer purchasing patterns and segment them based on similar traits. The segmentation enables targeted marketing strategies and product offerings, aiming to meet the diverse needs of various customer types.
 
-## Project Steps and Techniques
 ### Data Preparation: 
 I performed data cleaning, feature engineering, and preprocessing steps, including label encoding, feature scaling, and subsetting the data for dimensionality reduction.
 ### Dimensionality Reduction:
